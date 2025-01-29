@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✫ About Me:
 Software Engineering student at NU-FAST University<br>Passionate about Full Stack Development<br>Primarily working with **React.js** and **Java**<br>Exploring new technologies and improving my skills daily!<br>
 
 
@@ -21,6 +21,11 @@ Software Engineering student at NU-FAST University<br>Passionate about Full Stac
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imranali0981&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
