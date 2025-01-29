@@ -1,5 +1,5 @@
-# ✫ About Me:
-Software Engineering student at NU-FAST University<br>Passionate about Full Stack Development<br>Primarily working with **React.js** and **Java**<br>Exploring new technologies and improving my skills daily!<br>
+# 💫 About Me:
+Passionate **Software Engineering** student at NU-FAST University<br>Dedicated to learning and implementing Full Stack Development<br>Specialized in working with **React.js**, **Node.js**, and **Java**<br>Constantly exploring emerging technologies like **Cloud Computing**, **AI**, and **DevOps** to enhance my skillset<br>
 
 
 ## 🌐 Socials:
